@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Solidity, C and C++ 
 - 💞️ I’m looking to collaborate on projects being built on the blockchain and CP discussion groups.
 - 📫 Twitter - https://twitter.com/prajpawar23
+- WAGMI
 
 <!---
 praj-pawar/praj-pawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
