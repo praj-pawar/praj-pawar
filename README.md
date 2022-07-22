@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prajwal, a CS-AI&ML undergrad at RVCE!
 - 👀 I’m interested in tech that aids financial decisions(HFT), decentralised applications and competitive programming!
-- 🌱 I’m currently learning Solidity, C and C++ 
-- 💞️ I’m looking to collaborate on open source projects.
+- 🌱 I’m looking to collaborate on open source projects.
 - 📫 Twitter - https://twitter.com/prajpawar23
 - WAGMI
 
