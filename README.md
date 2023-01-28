@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Prajwal</h1>
-<h3 align="center">a tech enthusiast</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m interested in **building cool things**
 
