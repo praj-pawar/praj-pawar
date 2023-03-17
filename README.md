@@ -3,7 +3,7 @@
 
 - 🔭 I’m interested in **building cool things**
 
-- 🌱 I’m currently learning **react, flask and ML**
+- 🌱 I’m currently learning **React, Flask and ML**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
