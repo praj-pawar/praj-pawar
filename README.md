@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Prajwal M Pawar</h1>
-<h3 align="center">A tech enthusiast pursuing engineering at RVCE</h3>
+<h1 align="center">Hey, I'm Prajwal</h1>
+<h3 align="center">a tech enthusiast</h3>
 
 - 🔭 I’m interested in **building cool things**
 
 - 🌱 I’m currently learning **React & ML**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m actively looking to contribute to **open source projects**
 
 - 📫 Reach out to me @ **prajpawar23@gmail.com**
 
