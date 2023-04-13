@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📫 Reach out to me @**prajpawar23@gmail.com**
+- 📫 Reach out to me @ **prajpawar23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
