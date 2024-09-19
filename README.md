@@ -2,7 +2,7 @@
 <h3 align="center">a tech enthusiast</h3>
 
  - 🔭 interested in building cool things<br><br>
- - 🌱 working on GPUs, ML & fullstack development<br><br>
+ - 🌱 working on gpus, ml & fullstack development<br><br>
  - 📫 reach out to me @ prajpawar23@gmail.com<br><br>
 
 
